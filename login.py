@@ -11,5 +11,3 @@ elif a!=user_name:
     print("User name doesn't match.Please try again.")
 elif b!=password:
     print("Password doesn't match.Please try again.")
-
-print("thank you")
